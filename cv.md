@@ -18,6 +18,7 @@ function usdcny(usd) {
     return a;
     console.log(a);
 }
+
 usdcny(5);
 ```
 ## Education
